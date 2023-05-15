@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alvi00
 - 👀 I’m interested in coding and compitative programming.
-- 🌱 I’m currently learning c and c++.
+- 🌱 I have learned c and a little bit of c++.Now i am learning java
 - 💞️ I’m looking to collaborate on a project on c or c++ based.
 -**To contact mail me at : [ahmadfahmid59@gmail.com](https://mail.google.com/mail/u/2/#inbox)**
 
