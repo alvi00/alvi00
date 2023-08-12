@@ -1,4 +1,3 @@
-![logo](https://github.com/alvi00/alvi00/blob/main/ieee%20final%20watch-01.png)
 <h1 align="center">Hi 👋, I'm Ahmad Fahmid</h1>
 <h3 align="center">A passionate programmer from Bangladesh</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
@@ -18,8 +17,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/ahmad (alvi) fahmid](https://www.linkedin.com/in/ahmad-fahmid/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad (alvi) fahmid" height="30" width="40" /></a>
-<a href="[https://fb.com/ahmad fahmid alvi](https://www.facebook.com/ahmadfahmid.alvi.12/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad fahmid alvi" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ahmad fahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmad fahmid" height="30" width="40" /></a>
+<a href="https://fb.com/ahmad fahmid alvi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ahmad fahmid alvi" height="30" width="40" /></a>
 <a href="https://instagram.com/alvi_.exe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alvi_.exe" height="30" width="40" /></a>
 <a href="https://www.behance.net/ahmad fahmid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="ahmad fahmid" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/alvisagoodboy" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="alvisagoodboy" height="30" width="40" /></a>
