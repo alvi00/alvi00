@@ -4,11 +4,11 @@
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvi00&label=Profile%20views&color=0e75b6&style=flat" alt="alvi00" /> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **DSA and JavaScript**
 
-- 👯 I’m looking to collaborate on **Java projects**
+- 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://ahmadfahmid.blogspot.com](https://ahmadfahmid.blogspot.com)
+- 👨‍💻 All of my projects are available at [link will be given later]
 
 - 📫 How to reach me **ahmadfahmid59@gmail.com**
 
