@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [link will be given later]
+- 👨‍💻 All of my projects are available at https://alvi-port.vercel.app
 
 - 📫 How to reach me **ahmadfahmid59@gmail.com**
 
@@ -15,4 +15,4 @@
 
 - ⚡ Fun fact **I think I am a human**
 
-<a href="https://app.daily.dev/alvi007"><img src="https://alvi00/devcards/v2/dPFQT9E61vuK6UI6SS3C1.png?r=vit&type=default" width="356" alt="Ahmad Fahmid's Dev Card"/></a>
+<a href="https://app.daily.dev/alvi007"><img src="https://api.daily.dev/devcards/v2/dPFQT9E61vuK6UI6SS3C1.png?type=default&r=xlf" width="356" alt="Ahmad Fahmid's Dev Card"/></a>
