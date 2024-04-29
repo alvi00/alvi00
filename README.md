@@ -14,5 +14,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-fahmid/](https://www.linkedin.com/in/ahmad-fahmid/)
 
 - ⚡ Fun fact **I think I am a human**
-
-<a href="https://app.daily.dev/alvi007"><img src="https://api.daily.dev/devcards/v2/dPFQT9E61vuK6UI6SS3C1.png?type=default&r=xlf" width="356" alt="Ahmad Fahmid's Dev Card"/></a>
