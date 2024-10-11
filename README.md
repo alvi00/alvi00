@@ -14,4 +14,3 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/ahmad-fahmid/](https://www.linkedin.com/in/ahmad-fahmid/)
 
 - ⚡ Fun fact **I think I am a human**
-- https://codolio.com/profile/dqznABOh
