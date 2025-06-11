@@ -1,4 +1,5 @@
-# Welcome to My Gitverse! 
+# Welcome to My Gitverse! [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alvi00-portfolio.vercel.app/)
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=35&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hi+there!+I'm+Alvi+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Code+Enthusiast+%E2%9A%A1" alt="Typing SVG" />
@@ -83,132 +84,12 @@ const alvi = {
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900" height="300" alt="Building GIF"/>
 </div>
 
-- 🔭 Working on **full-stack web applications** with modern technologies
+- 🔭 Working on **Ai Workflow For Google Meet** with modern technologies
 - 🌱 Learning **Cloud Architecture** and **DevOps practices**
 - 👯 Looking to collaborate on **open source projects**
 - 💬 Ask me about **React, Node.js, or any web development topic**
 - ⚡ Fun fact: **I love turning coffee into code!** ☕
 
-## 🎨 Featured Projects
-
-<div align="center">
-
-### 🚀 [Check Out My Portfolio](https://alvi00-portfolio.vercel.app/)
-*Where creativity meets functionality*
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100" height="100" alt="Portfolio GIF"/>
-
-**Explore my latest projects, skills, and achievements in an interactive showcase!**
-
-</div>
-
----
-
-## 📂 Project Categories
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="900" height="150" alt="Projects GIF"/>
-</div>
-
-### 🤖 AI & Machine Learning Projects
-<div align="center">
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-</div>
-
-> 🧠 **Exploring the frontiers of artificial intelligence and machine learning**
-
-- 🔬 **[AI Project Repo](https://github.com/alvi00/ai-ml-projects)** - Collection of ML experiments and implementations
-- 🤖 **Neural Network Playground** - Custom implementations of popular architectures
-- 📈 **Data Science Notebooks** - Analysis and visualization projects
-- 🎯 **Computer Vision Projects** - Image processing and object detection
-
----
-
-### ☕ Java Development Projects
-<div align="center">
-  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white)
-
-</div>
-
-> ☕ **Building robust enterprise applications with Java**
-
-- 🏢 **[Java Projects Hub](https://github.com/alvi00/java-projects)** - Enterprise-grade Java applications
-- 🚀 **Spring Boot Microservices** - Scalable backend architectures
-- 🎮 **Console Games Collection** - Fun recreational programming projects
-- 🛠️ **Utility Libraries** - Reusable Java components and tools
-
----
-
-### 🎮 Gaming Projects
-<div align="center">
-  
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</div>
-
-> 🎮 **Creating interactive experiences and game mechanics**
-
-- 🕹️ **[Game Development Repo](https://github.com/alvi00/gaming-projects)** - Collection of game projects
-- 👾 **2D Arcade Games** - Classic games with modern twists
-- 🎯 **Web-based Games** - Browser games using HTML5 Canvas
-- 🎲 **Game Algorithms** - AI for games and procedural generation
-
----
-
-### 🌐 Full Stack Applications
-<div align="center">
-  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-
-</div>
-
-> 🚀 **End-to-end web applications with modern tech stacks**
-
-- 💼 **[Full Stack Projects](https://github.com/alvi00/fullstack-projects)** - Complete web applications
-- 🛒 **E-commerce Platform** - MERN stack shopping application
-- 📱 **Social Media App** - Real-time chat and social features
-- 🎨 **Content Management System** - Custom CMS with admin panel
-
----
-
-### 🎨 Frontend Showcase
-<div align="center">
-  
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-
-</div>
-
-> ✨ **Beautiful, responsive, and interactive user interfaces**
-
-- 🎭 **[Frontend Projects](https://github.com/alvi00/frontend-projects)** - UI/UX focused applications
-- 📱 **Responsive Landing Pages** - Modern marketing websites
-- 🎨 **Component Libraries** - Reusable React components
-- 🌈 **CSS Animations Playground** - Creative CSS experiments
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" height="200" alt="More Projects GIF"/>
-  
-  ### 🔍 **Want to see more?** 
-  **Check out my [repositories](https://github.com/alvi00?tab=repositories) for the complete collection!**
-</div>
 
 ## 📊 GitHub Activity Graph
 
